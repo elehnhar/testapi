@@ -18,7 +18,7 @@ poodle:
   breed: poodle
   color: while
 
-Rin Tin Tin
+Rin Tin Tin:
   age: 5
   breed: Mutt
   color: Brown
